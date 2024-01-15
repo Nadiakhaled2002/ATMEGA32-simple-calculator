@@ -16,7 +16,7 @@
 
 #define KPD_COL0_PIN      DIO_PIN0
 #define KPD_COL1_PIN      DIO_PIN1
-#define KPD_COL2_PIN      DIO_PIN1
+#define KPD_COL2_PIN      DIO_PIN0
 #define KPD_COL3_PIN      DIO_PIN7
 
 
